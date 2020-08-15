@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("0814");
         System.out.println("0815");
         System.out.println("test branch");
+        System.out.println("merge branch");
     }
 }
